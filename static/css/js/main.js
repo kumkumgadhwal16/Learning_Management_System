@@ -1,0 +1,1 @@
+console.log("LMS JavaScript loaded");
